@@ -29,7 +29,7 @@ location:
   country: United States
   country_code: US
 contact_links:
-  - icon: lindin
+  - icon: linkedin
     icon_pack: fab
     name: DM Me
     link: 'http://www.linkedin.com/in/saipradeepperi'
