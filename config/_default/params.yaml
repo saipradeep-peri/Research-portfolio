@@ -22,18 +22,17 @@ twitter: ''
 
 email: saipradeep.peri@gmail.com
 phone: 412-708-5958
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+location:
+  city: Pittsburgh
+  region: PA
+  postcode: '15213'
   country: United States
   country_code: US
 contact_links:
-  - icon: twitter
+  - icon: lindin
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'http://www.linkedin.com/in/saipradeepperi'
   - icon: skype
     icon_pack: fab
     name: Skype Me
